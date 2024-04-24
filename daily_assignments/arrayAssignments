@@ -1,0 +1,53 @@
+Q1)Program to print the count of non prime elements present in a array
+Q2)Program to print non odd elements which are palindrom in an array
+Q3)Program to count of spy numbers present in a array
+
+
+				date 2-04-2024
+				
+1Q)write a program to print summnation of an array(Done)
+2Q)write a program to print vowel characters in an array(Done)
+3Q)write a program to convert a string array into a word in reverse(Done)  
+4Q)write a program to check the count of vowel and non vowel in an array is equal or not
+5Q)write a program to print product of an array(Done)
+
+				date 11-04-2024
+				
+1Q)There is a worker in a village and he works daily basis, Each Day he works based on Number of hours in a week Except Sunday
+	=>And He Earns 100rs/hr in a day, Calculate The Complete week Salary and check his first half of the week salary and second half of the week salary
+	is equal or not 
+2Q)N number of students are sitting in a class, Each Student Have his own result(%) Find the class Topper and find the least score Student in a class 
+	and print there percentage with there Names
+	
+				date 12-04-2024
+				
+Q1) To Create a method to reverse the elements which contains prime digits
+Q2) to create a method which returns the index of largest element in an array				
+Q3)Program to create a method to print Second half of an array in reverse
+
+
+
+
+Q)To create a method to print summnation of each element in an array
+TestCases:
+	->Print only the elements which summnation has more then one digit
+	->If array Contains Negitive and Positive element print array as both positive and negitive elements 
+	->with all zeros print summnation cannot be find
+	
+	
+	
+Q1)Program to search a string element in the array(Done)
+Q2)Program to print the least Largest element for the given Key in an array(Done)
+Q3)Program to print the least smallest element for the given Key in an array(Done)
+
+
+									19/4/2024
+Q) Program to sort vowel Characters in an array
+Q) Program to sort 1st half of an array in increasing and 2nd half of an array in decreasing order
+Q) Program to sort array except if it is prime
+Q) Program to get nth largest element in an arrays
+ 
+
+
+
+
